@@ -1,0 +1,19 @@
+{
+    "name": "soham/inspire",
+    "description": "this is for testing and learning purpose.",
+    "type": "project",
+    "license": "y",
+    "autoload": {
+        "psr-4": {
+            "Soham\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "soham reshamwala"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
